@@ -16,18 +16,18 @@ body
   text-align:center;
 }
 
-#date
+.date
 {
   font-style: italic;
 }
 
-#organization
+.organization
 {
   font-weight: bold;
   font-size: 18px;
 }
 
-#course, #languange, #tool
+.course, .languange, .tool
 {
   font-style: italic;
 }
@@ -37,7 +37,7 @@ h2.section
   text-align: center;
 }
 
-#subheader
+.subheader
 {
   font-weight: bold;
 }
