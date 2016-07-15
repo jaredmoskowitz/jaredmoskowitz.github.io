@@ -24,4 +24,11 @@ body
 #organization
 {
   font-style: bold;
+  font-size: 18px;
+}
+
+#course
+{
+  font-style: italic;
+}
 }
