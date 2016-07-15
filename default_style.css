@@ -23,12 +23,17 @@ body
 
 #organization
 {
-  font-style: bold;
+  font-weight: bold;
   font-size: 18px;
 }
 
 #course
 {
   font-style: italic;
+}
+
+h2.section
+{
+  text-align: center;
 }
 }
