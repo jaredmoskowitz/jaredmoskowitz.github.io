@@ -10,3 +10,18 @@ body
 	margin-left: 2%;
 	margin-right: 2%;
 }
+
+#title
+{
+  text-align:center;
+}
+
+#date
+{
+  font-style: italic;
+}
+
+#organization
+{
+  font-style: bold;
+}
