@@ -2,3 +2,11 @@
   default_style.css
   Jared Moskowitz
 */
+
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-left: 2%;
+	margin-right: 2%;
+}
